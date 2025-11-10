@@ -1,4 +1,4 @@
-# Fabric Medallion Logistics Pipeline
+# Fabric-Data-to-Decisions-Logistics-BI
 
 ## 1. Overview
 
