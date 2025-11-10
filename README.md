@@ -51,7 +51,7 @@ External access cannot be granted.
 ### 4.1. Notebook Structure
 
 | Notebook | Processing Objective |
-|-----------|----------------------|------------------------|
+|-----------|----------------------|
 | NB_Bronze_to_Silver.ipynb | Data Cleansing (Bronze → Silver) |
 | NB_Silver_to_Gold.ipynb | Dimensional Modeling (Silver → Gold) | 
 
