@@ -13,7 +13,7 @@ This project was developed for academic purposes using a **Microsoft Fabric stud
 Due to data privacy and license restrictions, several components are simulated or anonymized.
 
 ### 2.1. Data Source
-- The dataset used is **synthetic**, modeled after the operational structure of a logistics company (e.g., *Ahamove*).  
+- The dataset used is **synthetic**, modeled after the operational structure of a logistics company (*Ahamove*).  
 - The **Raw Data** is not publicly shared to ensure compliance with data protection and intellectual property policies.
 
 ### 2.2. Substitute Documentation
