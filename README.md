@@ -2,7 +2,7 @@
 
 ## 1. Overview
 
-**Fabric Medallion Logistics Pipeline** is an **End-to-End Data Lakehouse Solution** built on **Microsoft Fabric**, simulating the analytical workflow of a logistics enterprise.  
+An **End-to-End Data Lakehouse Solution** built on **Microsoft Fabric**, simulating the analytical workflow of a logistics enterprise.  
 The project focuses on designing a **Medallion data architecture (Bronze–Silver–Gold)**, developing **data transformation pipelines using PySpark**, and building **Power BI dashboards** to perform **Root Cause Analysis (RCA)** on **Delivery Performance** metrics.
 
 ---
