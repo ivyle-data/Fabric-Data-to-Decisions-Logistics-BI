@@ -1,4 +1,5 @@
 # Fabric-Data-to-Decisions-Logistics-BI
+**Download Power BI (.pbix):** [Download via Google Drive](https://drive.google.com/file/d/1PXxWqyPSE5NYQwd1d6QTRpJUi3OiFvoA/view?usp=sharing)
 
 ## 1. Overview
 
