@@ -7,7 +7,7 @@ You can explore the dashboard in two ways:
 
 - **Full interactive version (.pbix):**  
   Download the Power BI file to inspect the data model, relationships, DAX measures, and interact with the visuals.
-  -> [Download Power BI (.pbix)](https://drive.google.com/file/d/1PXxWqyPSE5NYQwd1d6QTRpJUi3OiFvoA/view?usp=sharing)
+  -> [Download (.pbix)](https://drive.google.com/file/d/1PXxWqyPSE5NYQwd1d6QTRpJUi3OiFvoA/view?usp=sharing)
 
 
 ## 1. Overview
@@ -38,7 +38,7 @@ docs/03_Data_Preparation_and_EDA_Insights.pdf
 The ETL pipelines and Power BI dashboards were deployed within a restricted **Microsoft Fabric Education Tenant**.  
 External access cannot be granted.  
 
-**Alternative Access:** The final **Power BI (.pbix)** file is provided via Google Drive (see below).
+**Alternative Access:** The final offline **Power BI (.pbix)** file is provided via Google Drive.
 
 ---
 
